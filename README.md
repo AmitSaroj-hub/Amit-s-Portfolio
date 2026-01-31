@@ -6,7 +6,7 @@ data cleaning, transformation, visualization, and business intelligence.
 
 
 
-# Project 1: National Sales Intelligence Dashboard – Mantra Data Labs Case Study
+# Project 1: 📂 National Sales Intelligence Dashboard – Mantra Data Labs Case Study
 
 ##  Project Objective
 This project showcases a dynamic sales performance dashboard built using Microsoft Excel for a national distributor. The goal was to transform three years of raw transactional data (2022–2024) into actionable insights across product categories, regions, and sales channels. The dashboard enables business stakeholders to monitor trends, evaluate brand growth, and assess promotional effectiveness.

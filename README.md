@@ -54,7 +54,8 @@ This project showcases a dynamic sales performance dashboard built using Microso
 ---
 
 ## 📈 Dashboard Preview
-![Sales Dashboard](Add your dashboard image link here)
+[Dashboard](https://github.com/AmitSaroj-hub/Amit-s-Portfolio/blob/main/Dashboard%20Preview.png)
+
 
 ---
 

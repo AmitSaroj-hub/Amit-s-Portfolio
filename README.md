@@ -20,7 +20,7 @@ This project showcases a dynamic sales performance dashboard built using Microso
 
 ---
 
-## 📌 Key Questions (KPIs)
+##  Key Questions (KPIs)
 1. Total Revenue Generated  
 2. Units Sold Across Time  
 3. Delivered Quantity vs Stock Availability  
@@ -53,7 +53,7 @@ This project showcases a dynamic sales performance dashboard built using Microso
 
 ---
 
-## 📈 Dashboard Preview
+##  Dashboard Preview
 [Dashboard](https://github.com/AmitSaroj-hub/Amit-s-Portfolio/blob/main/Dashboard%20Preview.png)
 
 
@@ -68,5 +68,5 @@ This project showcases a dynamic sales performance dashboard built using Microso
 
 ---
 
-## ✅ Final Conclusion
+##  Final Conclusion
 This project demonstrates how Excel can be leveraged to build a professional-grade dashboard that empowers decision-makers with real-time insights. By integrating slicers, KPIs, and visual analytics, the dashboard supports strategic planning across assortment, promotions, and regional execution. It also highlights Amit’s ability to clean, transform, and visualize complex data in a business-friendly format.

@@ -6,7 +6,8 @@ data cleaning, transformation, visualization, and business intelligence.
 
 
 
-# Project 1: [📂](https://github.com/AmitSaroj-hub/Amit-Saroj-Portfolio/blob/main/Mantra%20Data%20Labs.xlsx) National Sales Intelligence Dashboard – Mantra Data Labs Case Study. ##Click On Folder Icon To Open Project File.
+# Project 1: [📂](https://github.com/AmitSaroj-hub/Amit-Saroj-Portfolio/blob/main/Mantra%20Data%20Labs.xlsx) National Sales Intelligence Dashboard – Mantra Data Labs Case Study. 
+**Click On Folder Icon To Open Project File.**
 
 ##  Project Objective
 This project showcases a dynamic sales performance dashboard built using Microsoft Excel for a national distributor. The goal was to transform three years of raw transactional data (2022–2024) into actionable insights across product categories, regions, and sales channels. The dashboard enables business stakeholders to monitor trends, evaluate brand growth, and assess promotional effectiveness.

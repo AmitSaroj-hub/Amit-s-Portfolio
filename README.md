@@ -3,8 +3,7 @@ Welcome to my data analytics portfolio! This repository contains a collection of
 
 
 
-# Project :Mantra Data Labs Sales Intelligence Dashboard.
-            [📂](https://github.com/AmitSaroj-hub/Amit-Saroj-Portfolio/blob/main/Mantra%20Data%20Labs.xlsx)
+# Project :[📂](https://github.com/AmitSaroj-hub/Amit-Saroj-Portfolio/blob/main/Mantra%20Data%20Labs.xlsx) Mantra Data Labs Sales Intelligence Dashboard           
 **Click On Folder Icon To Open Project File.**
 
 ##  Project Objective

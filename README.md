@@ -1,4 +1,4 @@
-# Portfolio Project
+# Portfolio Projects
 Welcome to my data analytics portfolio! This repository contains a collection of projects showcasing skills indata cleaning, transformation, visualization, and business intelligence.
 
 

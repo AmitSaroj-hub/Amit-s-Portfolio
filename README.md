@@ -10,7 +10,7 @@ Welcome to my data analytics portfolio! This repository contains a collection of
 ---
 
 
-# 2. Kotak Mahindra Bank : Loan Risk Meter. [📂](https://github.com/AmitSaroj-hub/Mantra-Data-Labs-Sales-Intelligence-Dashboard)         
+# 2. Kotak Mahindra Bank : Loan Risk Meter. [📂](https://github.com/AmitSaroj-hub/Kotak-Loan-Risk-Meter)         
 
 
 
